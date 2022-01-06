@@ -1,3 +1,3 @@
 # gameoflife
 
-Simple implementation of game of live in C
+Simple implementation of game of life in C
